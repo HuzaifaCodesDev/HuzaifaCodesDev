@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaCodesDev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaCodesDev&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge&logo=oracle" />
 </p>
 
 

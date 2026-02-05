@@ -22,6 +22,7 @@
 
 ### 🗄 Database & Backend
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge&logo=oracle" />
 </p>

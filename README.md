@@ -65,9 +65,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HuzaifaCodesDev&show_icons=true&theme=tokyonight" />
-  <br>
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaCodesDev&theme=tokyonight" />
 </p>
